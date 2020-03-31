@@ -7,7 +7,7 @@ module.exports = {
             href: `/favicon.ico`
         }]
     ],
-    dest: './docs/.vuepress/dist',
+    dest: './dist',
     ga: '',
     evergreen: true,
     themeConfig: {
